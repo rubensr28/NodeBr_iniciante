@@ -39,3 +39,4 @@ Após essa alteração é possível rodar o teste com `npm test` ou `npm t`
 
 1. Entendendo mais sobre [promisify](https://nodejs.org/dist/latest-v8.x/docs/api/util.html)
 2. Sobre map, filter e reduce -> [video](https://www.youtube.com/watch?v=D_MExaVe95w)
+3. Sobre ... no JS [Rest Parameters & Spread Operators](https://dev.to/sagar/three-dots---in-javascript-26ci)
