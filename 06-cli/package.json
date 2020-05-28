@@ -7,5 +7,9 @@
     "test": "mocha"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "comander": "0.0.1-security",
+    "commander": "^5.1.0"
+  }
 }
