@@ -41,3 +41,4 @@ Após essa alteração é possível rodar o teste com `npm test` ou `npm t`
 2. Sobre map, filter e reduce -> [video](https://www.youtube.com/watch?v=D_MExaVe95w)
 3. Sobre ... no JS [Rest Parameters & Spread Operators](https://dev.to/sagar/three-dots---in-javascript-26ci)
 4. Sobre 'commander' [npm commander](https://www.npmjs.com/package/commander)
+5. Sobre [Sequelize](https://sequelize.org/)
