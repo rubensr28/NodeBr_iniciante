@@ -42,3 +42,4 @@ Após essa alteração é possível rodar o teste com `npm test` ou `npm t`
 3. Sobre ... no JS [Rest Parameters & Spread Operators](https://dev.to/sagar/three-dots---in-javascript-26ci)
 4. Sobre 'commander' [npm commander](https://www.npmjs.com/package/commander)
 5. Sobre [Sequelize](https://sequelize.org/)
+6. Sobre [Mongoose](https://mongoosejs.com/)
